@@ -1,13 +1,14 @@
-# PremierZone
+# Premier-Zone Fantasy:
+Tech Stack: Springboot, Java, ReactJs, PostgreSQL, Python
 
-PremierZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
+PremierZone is an all-encompassing project aimed at collecting match statistics for more than 700 players, processing and displaying the data interactively, and forecasting match outcomes using machine learning. The project is structured into four key components: Backend, Frontend, Data Scraping, and Machine Learning.
 
-<img width="1407" alt="Screenshot 2024-06-22 at 11 29 13 PM" src="https://github.com/Erik-Cupsa/PLWebsite/assets/86483911/022e82ae-5190-49a4-a15d-87fc8227a579">
+<img width="1440" alt="Screenshot 2025-02-10 at 2 18 24 PM" src="https://github.com/user-attachments/assets/e319f48a-e491-4cb1-8bb6-c4be7b0702e8" />
+<img width="1440" alt="Screenshot 2025-02-10 at 2 18 49 PM" src="https://github.com/user-attachments/assets/96787700-8c20-435c-9dc6-b7f527da682a" />
+<img width="1440" alt="Screenshot 2025-02-10 at 2 19 04 PM" src="https://github.com/user-attachments/assets/70ada7d4-f271-449f-9451-3fad422c4b83" />
 
-You can find the [project here!](https://premierzone.vercel.app/)  
-Note: The backend is currently not being hosted, this will be fixed in one to two business weeks...
 
-## Features
+## The key Features
 
 - **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
 - **Backend**: Dynamic manipulation and presentation of the scraped data through a Spring Boot application.
